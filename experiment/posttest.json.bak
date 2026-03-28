@@ -1,0 +1,76 @@
+[
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = \\frac{x1 + x2}{2} $$ $$\\text{equation } =  exp(x) × cos(x) -1.4 $$ $$\\text{What is function value of 8th iteration using bisection method?}$$",
+      "qid": 1,
+      "option_a": "-0.00292",
+      "option_b": "0.00295",
+      "option_c": "0.00002",
+      "option_d": "-0.00145",
+      "correct_option": "c"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = \\frac{x1 + x2}{2} $$ $$\\text{equation } =  exp(x) × cos(x) -1.4 $$ $$\\text{What is root value of 8th iteration using bisection method?}$$",
+      "qid": 2,
+      "option_a": "0.43359",
+      "option_b": "0.40625",
+      "option_c": "0.42969",
+      "option_d": "0.43164",
+      "correct_option": "a"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = x1 - f(x1) × \\left(\\frac{(x2 - x1)}{(f(x2) - f(x1))}\\right) $$ $$\\text{equation } =  cos(x)-x × exp(x) $$ $$\\text{What is function value of 6th iteration using false position method?}$$",
+      "qid": 3,
+      "option_a": "0.00603",
+      "option_b": "0.00583",
+      "option_c": "0.00361",
+      "option_d": "0.00254",
+      "correct_option": "d"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = x1 - f(x1) × \\left(\\frac{(x2 - x1)}{(f(x2) - f(x1))}\\right) $$ $$\\text{equation } =  cos(x)-x × exp(x) $$ $$\\text{What is root value of 6th iteration using false position method?}$$",
+      "qid": 4,
+      "option_a": "0.51775",
+      "option_b": "0.51667",
+      "option_c": "0.51692",
+      "option_d": "0.51773",
+      "correct_option": "c"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 1 $$ $$ x2 = x1 - \\frac{f(x1)}{df(x1)} $$ $$\\text{equation } = x^2-cos(x) $$ $$ df(x) = 2x + sin(x) $$ $$\\text{What is function value of 3rd iteration using Newton Raphson method?}$$",
+      "qid": 5,
+      "option_a": "0.03382",
+      "option_b": "0.00026",
+      "option_c": "0",
+      "option_d": "0.00018",
+      "correct_option": "c"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 1 $$ $$ x2 = x1 - \\frac{f(x1)}{df(x1)} $$ $$\\text{equation } = x^2-cos(x) $$ $$ df(x) = 2x + sin(x) $$ $$\\text{What is root value of 3rd iteration using Newton Raphson method?}$$",
+      "qid": 6,
+      "option_a": "0.82413",
+      "option_b": "0.83822",
+      "option_c": "0.82413",
+      "option_d": "0.82413",
+      "correct_option": "a"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 1 $$ $$ x2 = g(x1) $$ $$\\text{equation } = cos(x) - x × exp(x) $$ $$ g(x) = \\frac{cos(x)}{exp(x)} $$ $$\\text{What is function value of 6th iteration using one point iterative method?}$$",
+      "qid": 7,
+      "option_a": "0.36973",
+      "option_b": "-0.63577",
+      "option_c": "-0.38902",
+      "option_d": "0.25453",
+      "correct_option": "c"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 1 $$ $$ x2 = g(x1) $$ $$\\text{equation } = cos(x) - x × exp(x) $$ $$ g(x) = \\frac{cos(x)}{exp(x)} $$ $$\\text{What is root value of 6th iteration using one point iterative method?}$$",
+      "qid": 8,
+      "option_a": "0.69778",
+      "option_b": "0.63387",
+      "option_c": "0.31077",
+      "option_d": "0.42748",
+      "correct_option": "b"
+   }
+
+
+]
