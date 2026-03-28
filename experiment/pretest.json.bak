@@ -1,0 +1,130 @@
+[
+   {
+      "question": "Bisection method is",
+      "qid": 1,
+      "option_a": "direct method",
+      "option_b": "one point iterative method",
+      "option_c": "fix point iterative method",
+      "option_d": "bracketing method",
+      "correct_option": "d"
+   },
+   {
+      "question": "If f(x<sub>1</sub>) &times; f(x<sub>2</sub>) < 0, select most suitable option.",
+      "qid": 2,
+      "option_a": "x<sub>1</sub> & x<sub>2</sub>, contains root",
+      "option_b": "x<sub>1</sub> & x<sub>2</sub>, contains at least one root",
+      "option_c": "x<sub>1</sub> & x<sub>2</sub>, contains multiple roots",
+      "option_d": "x<sub>1</sub> & x<sub>2</sub>,contains only real roots",
+      "correct_option": "b"
+   },
+   {
+      "question": "If f(x<sub>1</sub>) &times; f(x<sub>2</sub>) > 0, select most suitable option.",
+      "qid": 3,
+      "option_a": "Root lies between x<sub>1</sub> & x<sub>2</sub>",
+      "option_b": "Root does not lie between x<sub>1</sub> & x<sub>2</sub>",
+      "option_c": "Root may lie or may not lie between x<sub>1</sub> & x<sub>2</sub>",
+      "option_d": "Root does not exsists",
+      "correct_option": "c"
+   },
+   {
+      "question": "If f(x<sub>1</sub>) &times; f(x<sub>2</sub>) = 0",
+      "qid": 4,
+      "option_a": "Equation do not have real root",
+      "option_b": "Equation do not have root",
+      "option_c": "Either x<sub>1</sub> or x<sub>2</sub> is the root of the equation",
+      "option_d": "Equation cannot be solved by bisection method",
+      "correct_option": "c"
+   },
+   {
+      "question": "False position method is",
+      "qid": 5,
+      "option_a": "direct method",
+      "option_b": "bracketing method",
+      "option_c": "fix point iterative method",
+      "option_d": "one point iterative method",
+      "correct_option": "b"
+   },
+   {
+      "question": "If f(x<sub>1</sub>) &times; f(x<sub>2</sub>) < 0, select most suitable option.",
+      "qid": 6,
+      "option_a": "x<sub>1</sub> & x<sub>2</sub>, contains at least one root",
+      "option_b": "x<sub>1</sub> & x<sub>2</sub>, contains root",
+      "option_c": "x<sub>1</sub> & x<sub>2</sub>, contains multiple roots",
+      "option_d": "x<sub>1</sub> & x<sub>2</sub>,contains only real roots",
+      "correct_option": "a"
+   },
+   {
+      "question": "If f(x<sub>1</sub>) &times; f(x<sub>2</sub>) > 0, select most suitable option.",
+      "qid": 7,
+      "option_a": "Root lies between x<sub>1</sub> & x<sub>2</sub>",
+      "option_b": "Root does not lie between x<sub>1</sub> & x<sub>2</sub>",
+      "option_c": "Root may lie or may not lie between x<sub>1</sub> & x<sub>2</sub>",
+      "option_d": "Root does not exsists",
+      "correct_option": "c"
+   },
+   {
+      "question": "If f(x<sub>1</sub>) &times; f(x<sub>2</sub>) = 0",
+      "qid": 8,
+      "option_a": "Either x<sub>1</sub> or x<sub>2</sub> is the root of the equation",
+      "option_b": "Equation do not have real root",
+      "option_c": "Equation do not have root",
+      "option_d": "Equation cannot be solved by false position method",
+      "correct_option": "a"
+   },
+   {
+      "question": "If the convergence criteria is not satisfied",
+      "qid": 9,
+      "option_a": "then you will not get the root of the equation",
+      "option_b": "you may or may not get the root of the equation",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "b"
+   },
+   {
+      "question": "Newton raphson is a",
+      "qid": 10,
+      "option_a": "bracketing method",
+      "option_b": "open method",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "b"
+   },
+   {
+      "question": "New improved approximation of root is given by",
+      "qid": 11,
+      "option_a": "$$ x_2 = x_1 - \\frac{f(x_1)}{f'(x_1)} $$",
+      "option_b": "$$ x_2 = g(x) $$",
+      "option_c": "$$ x_2 = x_1 - \\frac{f(x_1)}{f'(x_1)}, \\quad f'(x_1) → \\text{at only first guess}  \\ $$",
+      "option_d": "$$ x_2 = x_1 - \\frac{f'(x_1)}{f(x_1)} $$",
+      "correct_option": "a"
+   },
+   {
+      "question": "If the convergence criteria is not satisfied",
+      "qid": 12,
+      "option_a": "you may or may not get the root of the equation",
+      "option_b": "then you will not get the root of the equation",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "a"
+   },
+   {
+      "question": "Newton raphson is a",
+      "qid": 13,
+      "option_a": "bracketing method",
+      "option_b": "open method",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "b"
+   },
+   {
+      "question": "New improved approximation of root is given by",
+      "qid": 14,
+      "option_a": "$$ x_2 = x_1 - \\frac{f(x_1)}{f'(x_1)} $$",
+      "option_b": "$$ x_2 = g(x) $$",
+      "option_c": "$$ x_2 = x_1 - \\frac{f(x_1)}{f'(x_1)}, \\quad f'(x_1) → \\text{at only first guess}  \\ $$",
+      "option_d": "$$ x_2 = x_1 - \\frac{f'(x_1)}{f(x_1)} $$",
+      "correct_option": "b"
+   }
+
+
+]
