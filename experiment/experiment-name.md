@@ -1,1 +1,1 @@
-## Experiment name
+## Convergence and computation time
