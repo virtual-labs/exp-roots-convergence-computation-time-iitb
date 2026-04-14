@@ -1,0 +1,275 @@
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/common_libraries/js/ts_components/matrix_2d.js
+    2:10  warning  'toLatexBMatrix' is defined but never used              no-unused-vars
+   29:10  warning  'toLatexDeterminant' is defined but never used          no-unused-vars
+   61:10  warning  'renderMatrixInputs' is defined but never used          no-unused-vars
+  111:10  warning  'readMatrix2D' is defined but never used                no-unused-vars
+  130:10  warning  'verifyMatrix2D' is defined but never used              no-unused-vars
+  141:18  warning  'verify_values' is not defined                          no-undef
+  148:10  warning  'transposeMatrix' is defined but never used             no-unused-vars
+  165:10  warning  'multiplyMatrices' is defined but never used            no-unused-vars
+  200:10  warning  'inverseMatrix' is defined but never used               no-unused-vars
+  255:10  warning  'determinant' is defined but never used                 no-unused-vars
+  305:10  warning  'convertMatrixInputsToSpans' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/js/activity1.js
+   17:10  warning  'start_act1' is defined but never used               no-unused-vars
+   20:20  warning  'get_collapse_btn_text' is not defined               no-undef
+   26:14  warning  'x1' is not defined                                  no-undef
+   26:30  warning  'x2' is not defined                                  no-undef
+   59:22  warning  'MathJax' is not defined                             no-undef
+   60:5   warning  'hide_all_steps' is not defined                      no-undef
+   62:9   warning  'show_step' is not defined                           no-undef
+   65:10  warning  'internal_calculations_1' is defined but never used  no-unused-vars
+   66:5   warning  'act1_table_data1' is not defined                    no-undef
+   66:24  warning  'bisection' is not defined                           no-undef
+   66:34  warning  'x1' is not defined                                  no-undef
+   66:38  warning  'x2' is not defined                                  no-undef
+   67:30  warning  'act1_table_data1' is not defined                    no-undef
+   71:17  warning  'Show_Table_Custom_Fixed' is not defined             no-undef
+   71:49  warning  'act1_table_data1' is not defined                    no-undef
+   78:10  warning  'internal_calculations_2' is defined but never used  no-unused-vars
+   81:5   warning  'act1_table_data2' is not defined                    no-undef
+   81:24  warning  'false_position' is not defined                      no-undef
+   81:39  warning  'x1' is not defined                                  no-undef
+   81:43  warning  'x2' is not defined                                  no-undef
+   82:33  warning  'act1_table_data2' is not defined                    no-undef
+   86:17  warning  'Show_Table_Custom_Fixed' is not defined             no-undef
+   86:49  warning  'act1_table_data2' is not defined                    no-undef
+   93:10  warning  'display_chart' is defined but never used            no-unused-vars
+  109:13  warning  'act1_table_data1' is not defined                    no-undef
+  110:14  warning  'act1_table_data1' is not defined                    no-undef
+  111:15  warning  'act1_table_data2' is not defined                    no-undef
+  112:21  warning  'Chart' is not defined                               no-undef
+  166:10  warning  'after_verify_table1' is defined but never used      no-unused-vars
+  172:17  warning  'Show_Table_Custom_Fixed' is not defined             no-undef
+  172:49  warning  'act1_table_data1' is not defined                    no-undef
+  175:10  warning  'load_questions' is defined but never used           no-unused-vars
+  180:9   warning  'outer_div' is assigned a value but never used       no-unused-vars
+  183:5   warning  'gm_a1' is not defined                               no-undef
+  184:5   warning  'ans_a1' is not defined                              no-undef
+  184:14  warning  'gm_a1' is not defined                               no-undef
+  186:24  warning  'Question_Options' is not defined                    no-undef
+  186:52  warning  'ans_a1' is not defined                              no-undef
+  192:9   warning  'graph_div' is assigned a value but never used       no-unused-vars
+  195:9   warning  'next_btn' is assigned a value but never used        no-unused-vars
+  196:9   warning  'root_inp' is assigned a value but never used        no-unused-vars
+  197:9   warning  'func_inp' is assigned a value but never used        no-unused-vars
+  198:16  warning  'ans_a1' is not defined                              no-undef
+  200:5   warning  'activity2' is not defined                           no-undef
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/js/activity2.js
+    1:10  warning  'activity2' is defined but never used          no-unused-vars
+    4:20  warning  'get_collapse_btn_text' is not defined         no-undef
+   17:13  warning  'act2_x1' is not defined                       no-undef
+   20:13  warning  'act2_x2' is not defined                       no-undef
+   27:5   warning  'maindiv' is not defined                       no-undef
+   28:5   warning  'hide_all_steps' is not defined                no-undef
+   30:9   warning  'MathJax' is not defined                       no-undef
+   33:9   warning  'show_step' is not defined                     no-undef
+   36:10  warning  'load_table_div' is defined but never used     no-unused-vars
+   40:20  warning  'get_collapse_btn_text' is not defined         no-undef
+   63:5   warning  'maindiv' is not defined                       no-undef
+   67:37  warning  'act2_bs_data' is not defined                  no-undef
+   68:37  warning  'act2_fp_data' is not defined                  no-undef
+   80:22  warning  'Show_Table_Custom_Fixed' is not defined       no-undef
+   91:22  warning  'Show_Table_Custom_Fixed' is not defined       no-undef
+   94:5   warning  'hide_all_steps' is not defined                no-undef
+   95:22  warning  'show_step' is not defined                     no-undef
+   97:10  warning  'act2_render_graph' is defined but never used  no-unused-vars
+  100:5   warning  'itr' is not defined                           no-undef
+  101:5   warning  'bs_data' is not defined                       no-undef
+  102:5   warning  'fp_data' is not defined                       no-undef
+  103:25  warning  'act2_bs_data' is not defined                  no-undef
+  104:9   warning  'itr' is not defined                           no-undef
+  105:9   warning  'bs_data' is not defined                       no-undef
+  105:22  warning  'act2_bs_data' is not defined                  no-undef
+  106:9   warning  'fp_data' is not defined                       no-undef
+  106:22  warning  'act2_fp_data' is not defined                  no-undef
+  133:21  warning  'Chart' is not defined                         no-undef
+  136:21  warning  'itr' is not defined                           no-undef
+  140:27  warning  'bs_data' is not defined                       no-undef
+  148:27  warning  'fp_data' is not defined                       no-undef
+  188:24  warning  'act2_x1' is not defined                       no-undef
+  188:34  warning  'act2_x2' is not defined                       no-undef
+  189:27  warning  'act2_x1' is not defined                       no-undef
+  190:27  warning  'act2_x2' is not defined                       no-undef
+  192:9   warning  'act2_bs_data' is not defined                  no-undef
+  192:28  warning  'act2_x1' is not defined                       no-undef
+  192:43  warning  'act2_x2' is not defined                       no-undef
+  194:13  warning  'act2_x2' is not defined                       no-undef
+  197:13  warning  'act2_x1' is not defined                       no-undef
+  201:5   warning  'act2_x1' is not defined                       no-undef
+  202:5   warning  'act2_x2' is not defined                       no-undef
+  204:27  warning  'act2_x1' is not defined                       no-undef
+  205:27  warning  'act2_x2' is not defined                       no-undef
+  206:23  warning  'act2_x1' is not defined                       no-undef
+  206:42  warning  'act2_x2' is not defined                       no-undef
+  206:52  warning  'act2_x1' is not defined                       no-undef
+  208:9   warning  'act2_fp_data' is not defined                  no-undef
+  208:28  warning  'act2_x1' is not defined                       no-undef
+  208:43  warning  'act2_x2' is not defined                       no-undef
+  210:13  warning  'act2_x2' is not defined                       no-undef
+  213:13  warning  'act2_x1' is not defined                       no-undef
+  216:17  warning  'act2_bs_data' is not defined                  no-undef
+  217:17  warning  'act2_fp_data' is not defined                  no-undef
+  222:10  warning  'act2_load_ques' is defined but never used     no-unused-vars
+  232:20  warning  'Updated_Question' is not defined              no-undef
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/js/activity3.js
+    1:10  warning  'activity3' is defined but never used                     no-unused-vars
+    4:20  warning  'get_collapse_btn_text' is not defined                    no-undef
+   10:40  warning  'act3_x1' is not defined                                  no-undef
+   41:5   warning  'maindiv' is not defined                                  no-undef
+   42:5   warning  'hide_all_steps' is not defined                           no-undef
+   44:9   warning  'MathJax' is not defined                                  no-undef
+   47:9   warning  'show_step' is not defined                                no-undef
+   50:10  warning  'act3_internal_calculations_1' is defined but never used  no-unused-vars
+   51:5   warning  'act3_table_data1' is not defined                         no-undef
+   51:24  warning  'newton_raphson' is not defined                           no-undef
+   51:39  warning  'act3_x1' is not defined                                  no-undef
+   52:42  warning  'act3_table_data1' is not defined                         no-undef
+   56:17  warning  'Show_Table_Custom_Fixed' is not defined                  no-undef
+   56:49  warning  'act3_table_data1' is not defined                         no-undef
+   63:10  warning  'act3_internal_calculations_2' is defined but never used  no-unused-vars
+   66:5   warning  'act3_table_data2' is not defined                         no-undef
+   66:24  warning  'one_point' is not defined                                no-undef
+   66:34  warning  'act3_x1' is not defined                                  no-undef
+   67:37  warning  'act3_table_data2' is not defined                         no-undef
+   71:17  warning  'Show_Table_Custom_Fixed' is not defined                  no-undef
+   71:49  warning  'act3_table_data2' is not defined                         no-undef
+   78:10  warning  'act3_display_chart' is defined but never used            no-unused-vars
+   92:13  warning  'act3_table_data1' is not defined                         no-undef
+   93:15  warning  'act3_table_data1' is not defined                         no-undef
+   94:15  warning  'act3_table_data2' is not defined                         no-undef
+   95:21  warning  'Chart' is not defined                                    no-undef
+  149:10  warning  'act3_load_questions' is defined but never used           no-unused-vars
+  152:9   warning  'outer_div' is assigned a value but never used            no-unused-vars
+  155:5   warning  'gm_a2' is not defined                                    no-undef
+  156:5   warning  'ans_a2' is not defined                                   no-undef
+  156:14  warning  'gm_a2' is not defined                                    no-undef
+  158:24  warning  'Question_Options' is not defined                         no-undef
+  158:52  warning  'ans_a2' is not defined                                   no-undef
+  164:9   warning  'graph_div' is assigned a value but never used            no-unused-vars
+  170:16  warning  'ans_a1' is not defined                                   no-undef
+  172:5   warning  'activity4' is not defined                                no-undef
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/js/activity4.js
+    1:10  warning  'activity4' is defined but never used                     no-unused-vars
+    4:20  warning  'get_collapse_btn_text' is not defined                    no-undef
+   12:41  warning  'act4_x1' is not defined                                  no-undef
+   34:5   warning  'maindiv' is not defined                                  no-undef
+   35:5   warning  'hide_all_steps' is not defined                           no-undef
+   37:9   warning  'MathJax' is not defined                                  no-undef
+   40:9   warning  'show_step' is not defined                                no-undef
+   43:10  warning  'act4_internal_calculations_1' is defined but never used  no-unused-vars
+   44:5   warning  'act4_table_data1' is not defined                         no-undef
+   44:24  warning  'act4_newton_raphson' is not defined                      no-undef
+   44:44  warning  'act4_x1' is not defined                                  no-undef
+   45:47  warning  'act4_table_data1' is not defined                         no-undef
+   49:17  warning  'Show_Table_Custom_Fixed' is not defined                  no-undef
+   49:49  warning  'act4_table_data1' is not defined                         no-undef
+   71:10  warning  'act4_display_chart' is defined but never used            no-unused-vars
+   87:13  warning  'act4_table_data1' is not defined                         no-undef
+   88:16  warning  'act4_table_data1' is not defined                         no-undef
+   90:21  warning  'Chart' is not defined                                    no-undef
+  178:10  warning  'exp_complete' is defined but never used                  no-unused-vars
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/js/bisection.js
+  11:10  warning  'bisection' is defined but never used            no-unused-vars
+  32:10  warning  'false_position' is defined but never used       no-unused-vars
+  54:10  warning  'newton_raphson' is defined but never used       no-unused-vars
+  67:10  warning  'one_point' is defined but never used            no-unused-vars
+  86:10  warning  'act4_newton_raphson' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-roots-convergence-computation-time-iitb/exp-roots-convergence-computation-time-iitb/experiment/simulation/js/data.js
+   1:5  warning  'x1' is assigned a value but never used            no-unused-vars
+   2:5  warning  'x2' is assigned a value but never used            no-unused-vars
+   3:5  warning  'act1_table_data1' is defined but never used       no-unused-vars
+   4:5  warning  'act1_table_data2' is defined but never used       no-unused-vars
+   5:5  warning  'gm_a1' is defined but never used                  no-unused-vars
+   6:5  warning  'ans_a1' is defined but never used                 no-unused-vars
+   7:5  warning  'act2_x1' is assigned a value but never used       no-unused-vars
+   8:5  warning  'act2_x2' is assigned a value but never used       no-unused-vars
+  10:5  warning  'act2_bs_data' is assigned a value but never used  no-unused-vars
+  11:5  warning  'act2_fp_data' is assigned a value but never used  no-unused-vars
+  12:5  warning  'itr' is assigned a value but never used           no-unused-vars
+  13:5  warning  'bs_data' is assigned a value but never used       no-unused-vars
+  14:5  warning  'fp_data' is assigned a value but never used       no-unused-vars
+  15:5  warning  'act3_x1' is assigned a value but never used       no-unused-vars
+  16:5  warning  'act3_table_data1' is defined but never used       no-unused-vars
+  17:5  warning  'act3_table_data2' is defined but never used       no-unused-vars
+  18:5  warning  'gm_a2' is defined but never used                  no-unused-vars
+  19:5  warning  'ans_a2' is defined but never used                 no-unused-vars
+  20:5  warning  'act4_x1' is assigned a value but never used       no-unused-vars
+  21:5  warning  'act4_table_data1' is defined but never used       no-unused-vars
+
+✖ 242 problems (0 errors, 242 warnings)
+
