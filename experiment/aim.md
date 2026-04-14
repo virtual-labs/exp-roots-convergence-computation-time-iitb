@@ -1,1 +1,1 @@
-<h2>AIM: To study convergence and computation time of various methods of the roots of equation.</h2>
+<h2>AIM: To study convergence and computation time of various methods to find the roots of equation.</h2>
